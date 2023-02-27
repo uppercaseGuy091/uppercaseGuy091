@@ -1,7 +1,3 @@
-# 💫 About Me:
- 💻 Currently working as IT support & Systems Admin<br> 📖 Learning front-end development<br> 📩 Ask me about any project
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Konstantinos Sosopoulos) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Konstantinos Sosopoulos) 
 
